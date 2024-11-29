@@ -35,5 +35,5 @@ src="https://img.shields.io/badge/-Outlook-1DA1F2?style=for-the-badge&logo=Outlo
 <a target="_blank"
 href="[https://twitter.com/](https://x.com/BlackAn16138390)"><img
 src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
-<a target="_blank"
+<a target="_blank">
 </div>
