@@ -47,11 +47,9 @@ Here are some ideas to get you started:
 
 
 <h3 align="center">GitHub Statistics:</h3>
-<p align="center">
-   <a href="https://github.com/Abourhim">
- &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Abourhim&show_icons=true&theme=radical&locale=en" alt="Abderrahmane Bourhim" />
-   &nbsp;<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abourhim&show_icons=true&theme=radical&layout=compact" alt="Abderrahmane Bourhim" />
-    <br>
- &nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abourhim&theme=radical" alt="Abderrahmane Bourhim" />
-     </a>
-</p>
+
+   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abourhim&show_icons=true&theme=radical&locale=en&layout=compact" alt="abourhim" /></p>
+   
+   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abourhim&show_icons=true&theme=radical&locale=en" alt="abourhim" /></p>
+   
+   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abourhim&theme=radical" alt="abourhim" /></p> 
