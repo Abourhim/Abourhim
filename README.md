@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/blackan16138390" target="blank"><img src="https://img.shields.io/twitter/follow/blackan16138390?logo=twitter&style=for-the-badge" alt="blackan16138390" /></a> </p>
 
-- 🔭 I’m currently working on **Snake Game**
+- 🔭 I’m currently working on **IP Address Tracker**
 
 - 🌱 I’m currently learning **React, Node.js, ReactNative**
 
